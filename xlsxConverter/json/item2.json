@@ -1,0 +1,767 @@
+[
+    {
+        "tid":"long",
+        "need_lv":"int",
+        "name":"string",
+        "point_atk":"long",
+        "point_def":"long",
+        "per":"decimal",
+        "create_date":"datetime"
+    },
+    {
+        "tid":10001,
+        "need_lv":1,
+        "name":"aaa",
+        "point_atk":111,
+        "point_def":200,
+        "per":0.001,
+        "create_date":"2024.02.29 11:22:59"
+    },
+    {
+        "tid":10002,
+        "need_lv":2,
+        "name":"bbb",
+        "point_atk":112,
+        "point_def":201,
+        "per":1.001,
+        "create_date":"2024.02.29 11:22:60"
+    },
+    {
+        "tid":10003,
+        "need_lv":3,
+        "name":"ccc",
+        "point_atk":113,
+        "point_def":202,
+        "per":2.001,
+        "create_date":"2024.02.29 11:22:61"
+    },
+    {
+        "tid":10004,
+        "need_lv":4,
+        "name":"ddd",
+        "point_atk":114,
+        "point_def":203,
+        "per":3.001,
+        "create_date":"2024.02.29 11:22:62"
+    },
+    {
+        "tid":10005,
+        "need_lv":5,
+        "name":"eee",
+        "point_atk":115,
+        "point_def":204,
+        "per":4.001,
+        "create_date":"2024.02.29 11:22:63"
+    },
+    {
+        "tid":10006,
+        "need_lv":6,
+        "name":"fff",
+        "point_atk":116,
+        "point_def":205,
+        "per":5.001,
+        "create_date":"2024.02.29 11:22:64"
+    },
+    {
+        "tid":10007,
+        "need_lv":7,
+        "name":"ggg",
+        "point_atk":117,
+        "point_def":206,
+        "per":6.001,
+        "create_date":"2024.02.29 11:22:65"
+    },
+    {
+        "tid":10008,
+        "need_lv":8,
+        "name":"hhh",
+        "point_atk":118,
+        "point_def":207,
+        "per":7.001,
+        "create_date":"2024.02.29 11:22:66"
+    },
+    {
+        "tid":10009,
+        "need_lv":9,
+        "name":"iii",
+        "point_atk":119,
+        "point_def":208,
+        "per":8.001,
+        "create_date":"2024.02.29 11:22:67"
+    },
+    {
+        "tid":10010,
+        "need_lv":10,
+        "name":"jjj",
+        "point_atk":120,
+        "point_def":209,
+        "per":9.001,
+        "create_date":"2024.02.29 11:22:68"
+    },
+    {
+        "tid":10011,
+        "need_lv":11,
+        "name":"kkk",
+        "point_atk":121,
+        "point_def":210,
+        "per":10.001,
+        "create_date":"2024.02.29 11:22:69"
+    },
+    {
+        "tid":10012,
+        "need_lv":12,
+        "name":"lll",
+        "point_atk":122,
+        "point_def":211,
+        "per":11.001,
+        "create_date":"2024.02.29 11:22:70"
+    },
+    {
+        "tid":10013,
+        "need_lv":13,
+        "name":"mmm",
+        "point_atk":123,
+        "point_def":212,
+        "per":12.001,
+        "create_date":"2024.02.29 11:22:71"
+    },
+    {
+        "tid":10014,
+        "need_lv":14,
+        "name":"nnn",
+        "point_atk":124,
+        "point_def":213,
+        "per":13.001,
+        "create_date":"2024.02.29 11:22:72"
+    },
+    {
+        "tid":10015,
+        "need_lv":15,
+        "name":"ooo",
+        "point_atk":125,
+        "point_def":214,
+        "per":14.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10016,
+        "need_lv":16,
+        "name":"ooo",
+        "point_atk":126,
+        "point_def":215,
+        "per":15.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10017,
+        "need_lv":17,
+        "name":"ooo",
+        "point_atk":127,
+        "point_def":216,
+        "per":16.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10018,
+        "need_lv":18,
+        "name":"ooo",
+        "point_atk":128,
+        "point_def":217,
+        "per":17.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10019,
+        "need_lv":19,
+        "name":"ooo",
+        "point_atk":129,
+        "point_def":218,
+        "per":18.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10020,
+        "need_lv":20,
+        "name":"ooo",
+        "point_atk":130,
+        "point_def":219,
+        "per":19.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10021,
+        "need_lv":21,
+        "name":"ooo",
+        "point_atk":131,
+        "point_def":220,
+        "per":20.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10022,
+        "need_lv":22,
+        "name":"ooo",
+        "point_atk":132,
+        "point_def":221,
+        "per":21.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10023,
+        "need_lv":23,
+        "name":"ooo",
+        "point_atk":133,
+        "point_def":222,
+        "per":22.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10024,
+        "need_lv":24,
+        "name":"ooo",
+        "point_atk":134,
+        "point_def":223,
+        "per":23.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10025,
+        "need_lv":25,
+        "name":"ooo",
+        "point_atk":135,
+        "point_def":224,
+        "per":24.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10026,
+        "need_lv":26,
+        "name":"ooo",
+        "point_atk":136,
+        "point_def":225,
+        "per":25.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10027,
+        "need_lv":27,
+        "name":"ooo",
+        "point_atk":137,
+        "point_def":226,
+        "per":26.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10028,
+        "need_lv":28,
+        "name":"ooo",
+        "point_atk":138,
+        "point_def":227,
+        "per":27.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10029,
+        "need_lv":29,
+        "name":"ooo",
+        "point_atk":139,
+        "point_def":228,
+        "per":28.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10030,
+        "need_lv":30,
+        "name":"ooo",
+        "point_atk":140,
+        "point_def":229,
+        "per":29.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10031,
+        "need_lv":31,
+        "name":"ooo",
+        "point_atk":141,
+        "point_def":230,
+        "per":30.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10032,
+        "need_lv":32,
+        "name":"ooo",
+        "point_atk":142,
+        "point_def":231,
+        "per":31.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10033,
+        "need_lv":33,
+        "name":"ooo",
+        "point_atk":143,
+        "point_def":232,
+        "per":32.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10034,
+        "need_lv":34,
+        "name":"ooo",
+        "point_atk":144,
+        "point_def":233,
+        "per":33.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10035,
+        "need_lv":35,
+        "name":"ooo",
+        "point_atk":145,
+        "point_def":234,
+        "per":34.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10036,
+        "need_lv":36,
+        "name":"ooo",
+        "point_atk":146,
+        "point_def":235,
+        "per":35.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10037,
+        "need_lv":37,
+        "name":"ooo",
+        "point_atk":147,
+        "point_def":236,
+        "per":36.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10038,
+        "need_lv":38,
+        "name":"ooo",
+        "point_atk":148,
+        "point_def":237,
+        "per":37.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10039,
+        "need_lv":39,
+        "name":"ooo",
+        "point_atk":149,
+        "point_def":238,
+        "per":38.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10040,
+        "need_lv":40,
+        "name":"ooo",
+        "point_atk":150,
+        "point_def":239,
+        "per":39.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10041,
+        "need_lv":41,
+        "name":"ooo",
+        "point_atk":151,
+        "point_def":240,
+        "per":40.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10042,
+        "need_lv":42,
+        "name":"ooo",
+        "point_atk":152,
+        "point_def":241,
+        "per":41.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10043,
+        "need_lv":43,
+        "name":"ooo",
+        "point_atk":153,
+        "point_def":242,
+        "per":42.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10044,
+        "need_lv":44,
+        "name":"ooo",
+        "point_atk":154,
+        "point_def":243,
+        "per":43.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10045,
+        "need_lv":45,
+        "name":"ooo",
+        "point_atk":155,
+        "point_def":244,
+        "per":44.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10046,
+        "need_lv":46,
+        "name":"ooo",
+        "point_atk":156,
+        "point_def":245,
+        "per":45.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10047,
+        "need_lv":47,
+        "name":"ooo",
+        "point_atk":157,
+        "point_def":246,
+        "per":46.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10048,
+        "need_lv":48,
+        "name":"ooo",
+        "point_atk":158,
+        "point_def":247,
+        "per":47.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10049,
+        "need_lv":49,
+        "name":"ooo",
+        "point_atk":159,
+        "point_def":248,
+        "per":48.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10050,
+        "need_lv":50,
+        "name":"ooo",
+        "point_atk":160,
+        "point_def":249,
+        "per":49.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10051,
+        "need_lv":51,
+        "name":"ooo",
+        "point_atk":161,
+        "point_def":250,
+        "per":50.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10052,
+        "need_lv":52,
+        "name":"ooo",
+        "point_atk":162,
+        "point_def":251,
+        "per":51.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10053,
+        "need_lv":53,
+        "name":"ooo",
+        "point_atk":163,
+        "point_def":252,
+        "per":52.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10054,
+        "need_lv":54,
+        "name":"ooo",
+        "point_atk":164,
+        "point_def":253,
+        "per":53.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10055,
+        "need_lv":55,
+        "name":"ooo",
+        "point_atk":165,
+        "point_def":254,
+        "per":54.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10056,
+        "need_lv":56,
+        "name":"ooo",
+        "point_atk":166,
+        "point_def":255,
+        "per":55.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10057,
+        "need_lv":57,
+        "name":"ooo",
+        "point_atk":167,
+        "point_def":256,
+        "per":56.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10058,
+        "need_lv":58,
+        "name":"ooo",
+        "point_atk":168,
+        "point_def":257,
+        "per":57.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10059,
+        "need_lv":59,
+        "name":"ooo",
+        "point_atk":169,
+        "point_def":258,
+        "per":58.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10060,
+        "need_lv":60,
+        "name":"ooo",
+        "point_atk":170,
+        "point_def":259,
+        "per":59.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10061,
+        "need_lv":61,
+        "name":"ooo",
+        "point_atk":171,
+        "point_def":260,
+        "per":60.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10062,
+        "need_lv":62,
+        "name":"ooo",
+        "point_atk":172,
+        "point_def":261,
+        "per":61.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10063,
+        "need_lv":63,
+        "name":"ooo",
+        "point_atk":173,
+        "point_def":262,
+        "per":62.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10064,
+        "need_lv":64,
+        "name":"ooo",
+        "point_atk":174,
+        "point_def":263,
+        "per":63.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10065,
+        "need_lv":65,
+        "name":"ooo",
+        "point_atk":175,
+        "point_def":264,
+        "per":64.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10066,
+        "need_lv":66,
+        "name":"ooo",
+        "point_atk":176,
+        "point_def":265,
+        "per":65.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10067,
+        "need_lv":67,
+        "name":"ooo",
+        "point_atk":177,
+        "point_def":266,
+        "per":66.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10068,
+        "need_lv":68,
+        "name":"ooo",
+        "point_atk":178,
+        "point_def":267,
+        "per":67.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10069,
+        "need_lv":69,
+        "name":"ooo",
+        "point_atk":179,
+        "point_def":268,
+        "per":68.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10070,
+        "need_lv":70,
+        "name":"ooo",
+        "point_atk":180,
+        "point_def":269,
+        "per":69.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10071,
+        "need_lv":71,
+        "name":"ooo",
+        "point_atk":181,
+        "point_def":270,
+        "per":70.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10072,
+        "need_lv":72,
+        "name":"ooo",
+        "point_atk":182,
+        "point_def":271,
+        "per":71.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10073,
+        "need_lv":73,
+        "name":"ooo",
+        "point_atk":183,
+        "point_def":272,
+        "per":72.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10074,
+        "need_lv":74,
+        "name":"ooo",
+        "point_atk":184,
+        "point_def":273,
+        "per":73.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10075,
+        "need_lv":75,
+        "name":"ooo",
+        "point_atk":185,
+        "point_def":274,
+        "per":74.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10076,
+        "need_lv":76,
+        "name":"ooo",
+        "point_atk":186,
+        "point_def":275,
+        "per":75.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10077,
+        "need_lv":77,
+        "name":"ooo",
+        "point_atk":187,
+        "point_def":276,
+        "per":76.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10078,
+        "need_lv":78,
+        "name":"ooo",
+        "point_atk":188,
+        "point_def":277,
+        "per":77.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10079,
+        "need_lv":79,
+        "name":"ooo",
+        "point_atk":189,
+        "point_def":278,
+        "per":78.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10080,
+        "need_lv":80,
+        "name":"ooo",
+        "point_atk":190,
+        "point_def":279,
+        "per":79.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10081,
+        "need_lv":81,
+        "name":"ooo",
+        "point_atk":191,
+        "point_def":280,
+        "per":80.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10082,
+        "need_lv":82,
+        "name":"ooo",
+        "point_atk":192,
+        "point_def":281,
+        "per":81.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10083,
+        "need_lv":83,
+        "name":"ooo",
+        "point_atk":193,
+        "point_def":282,
+        "per":82.001,
+        "create_date":"2024.02.29 11:22:73"
+    },
+    {
+        "tid":10084,
+        "need_lv":84,
+        "name":"ooo",
+        "point_atk":194,
+        "point_def":283,
+        "per":83.001,
+        "create_date":"2024.02.29 11:22:73"
+    }
+]

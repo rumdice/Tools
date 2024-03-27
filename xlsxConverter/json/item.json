@@ -1,0 +1,146 @@
+[
+    {
+        "tid":"long",
+        "need_lv":"int",
+        "name":"string",
+        "point_atk":"long",
+        "point_def":"long",
+        "per":"decimal",
+        "create_date":"datetime"
+    },
+    {
+        "tid":10001,
+        "need_lv":1,
+        "name":"aaa",
+        "point_atk":111,
+        "point_def":200,
+        "per":0.001,
+        "create_date":"2024.02.29 11:22:59"
+    },
+    {
+        "tid":10002,
+        "need_lv":2,
+        "name":"bbb",
+        "point_atk":112,
+        "point_def":201,
+        "per":1.001,
+        "create_date":"2024.02.29 11:22:60"
+    },
+    {
+        "tid":10003,
+        "need_lv":3,
+        "name":"ccc",
+        "point_atk":113,
+        "point_def":202,
+        "per":2.001,
+        "create_date":"2024.02.29 11:22:61"
+    },
+    {
+        "tid":10004,
+        "need_lv":4,
+        "name":"ddd",
+        "point_atk":114,
+        "point_def":203,
+        "per":3.001,
+        "create_date":"2024.02.29 11:22:62"
+    },
+    {
+        "tid":10005,
+        "need_lv":5,
+        "name":"eee",
+        "point_atk":115,
+        "point_def":204,
+        "per":4.001,
+        "create_date":"2024.02.29 11:22:63"
+    },
+    {
+        "tid":10006,
+        "need_lv":6,
+        "name":"fff",
+        "point_atk":116,
+        "point_def":205,
+        "per":5.001,
+        "create_date":"2024.02.29 11:22:64"
+    },
+    {
+        "tid":10007,
+        "need_lv":7,
+        "name":"ggg",
+        "point_atk":117,
+        "point_def":206,
+        "per":6.001,
+        "create_date":"2024.02.29 11:22:65"
+    },
+    {
+        "tid":10008,
+        "need_lv":8,
+        "name":"hhh",
+        "point_atk":118,
+        "point_def":207,
+        "per":7.001,
+        "create_date":"2024.02.29 11:22:66"
+    },
+    {
+        "tid":10009,
+        "need_lv":9,
+        "name":"iii",
+        "point_atk":119,
+        "point_def":208,
+        "per":8.001,
+        "create_date":"2024.02.29 11:22:67"
+    },
+    {
+        "tid":10010,
+        "need_lv":10,
+        "name":"jjj",
+        "point_atk":120,
+        "point_def":209,
+        "per":9.001,
+        "create_date":"2024.02.29 11:22:68"
+    },
+    {
+        "tid":10011,
+        "need_lv":11,
+        "name":"kkk",
+        "point_atk":121,
+        "point_def":210,
+        "per":10.001,
+        "create_date":"2024.02.29 11:22:69"
+    },
+    {
+        "tid":10012,
+        "need_lv":12,
+        "name":"lll",
+        "point_atk":122,
+        "point_def":211,
+        "per":11.001,
+        "create_date":"2024.02.29 11:22:70"
+    },
+    {
+        "tid":10013,
+        "need_lv":13,
+        "name":"mmm",
+        "point_atk":123,
+        "point_def":212,
+        "per":12.001,
+        "create_date":"2024.02.29 11:22:71"
+    },
+    {
+        "tid":10014,
+        "need_lv":14,
+        "name":"nnn",
+        "point_atk":124,
+        "point_def":213,
+        "per":13.001,
+        "create_date":"2024.02.29 11:22:72"
+    },
+    {
+        "tid":10015,
+        "need_lv":15,
+        "name":"ooo",
+        "point_atk":125,
+        "point_def":214,
+        "per":14.001,
+        "create_date":"2024.02.29 11:22:73"
+    }
+]
